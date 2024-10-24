@@ -1,7 +1,7 @@
 ## Hi there 👋
+
 My name is Puchana Suwiphat 
 You can call me Prite,Sprite 🧃
----
 
 Motivated and detail-oriented fresh graduate with a passion for front-end development. Proficient in modern web technologies and ready to learn new tools and get them up and running. Hands-on experience developing web applications and websites. Eager to apply my skills in a professional environment to create engaging and effective experiences and eager to learn new things from new people.
 
@@ -16,5 +16,20 @@ Motivated and detail-oriented fresh graduate with a passion for front-end develo
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
 </div>
 
+---
+
+Socials : 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
