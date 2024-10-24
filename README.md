@@ -24,7 +24,7 @@ Motivated and detail-oriented fresh graduate with a passion for front-end develo
 Socials : 
 <div id="badges">
   <a href="your-github-URL">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://github.com/pchanu023)" alt="LinkedIn Badge"/>
+    <img src="https://github.com/pchanu023" alt="github Badge"/>
   </a>
 
 </div>
