@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-My name is Puchana Suwiphat 
-You can call me Prite,Sprite 🧃
-
-Motivated and detail-oriented fresh graduate with a passion for front-end development. Proficient in modern web technologies and ready to learn new tools and get them up and running. Hands-on experience developing web applications and websites. Eager to apply my skills in a professional environment to create engaging and effective experiences and eager to learn new things from new people.
-
+Hello, My name is Phuchana Suvipat, but you can call me Sprite. I am currently pursuing a Bachelor's degree in Computer Science at Rajamangala University of Technology 
+Phra Nakhon, Faculty of Science and Technology. I am seeking an internship opportunity to gain practical experience and enhance my skills in preparation for a future career 
+in technology. I am a dedicated and enthusiastic individual with a strong willingness to learn and adapt to new challenges. I view this internship as a valuable chance to apply 
+the knowledge I’ve gained from my studies to real-world situations, while also developing my teamwork and problem-solving abilities. I firmly believe that learning from mistakes 
+is essential for self-improvement, and I am committed to growing from every experience. I would greatly appreciate the opportunity to contribute to your organization 
+while continuing to learn and grow. Please be assured that I am ready to work hard and dedicate myself fully to achieving the best results. Thank you for considering my application.
 ---
 
 ### :hammer_and_wrench: Languages and Tools (basic): 
