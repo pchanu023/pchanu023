@@ -14,6 +14,10 @@ I am eager to apply my knowledge, enhance my teamwork and problem-solving skills
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" **alt="react" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original-wordmark.svg" title="vue" **alt="vue" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original-wordmark.svg" title="vuetify" **alt="vuetify" width="40" height="40"/>
+  
+  
   
 
 </div>
